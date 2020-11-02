@@ -112,13 +112,13 @@ body{
     stroke-miterlimit: 10;
 }
 
-/* Transparent box ensuring arms center properly. */
+/* Transparent box  */
 .sizing-box {
     fill: none;
 }
 
-/* Make all arms rotate around the same center point. */
-/* Optional: Use transition for animation. */
+
+/* make all the arm center  */
 #hour,
 #minute,
 #second {
