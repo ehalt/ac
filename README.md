@@ -169,4 +169,4 @@ ___
 
 ### SS:
 
-[![analog_clock](aclk.jpg)]
+![analog_clock](aclk.jpg)
